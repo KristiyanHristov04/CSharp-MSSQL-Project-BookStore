@@ -1,0 +1,32 @@
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\bin\Debug\Online Book Shop.exe.config
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\bin\Debug\Online Book Shop.exe
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\bin\Debug\Online Book Shop.pdb
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\obj\Debug\Online Book Shop.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\obj\Debug\Online_Book_Shop.Form1.resources
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\obj\Debug\Online_Book_Shop.Properties.Resources.resources
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\obj\Debug\Online Book Shop.csproj.GenerateResource.cache
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\obj\Debug\Online Book Shop.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\obj\Debug\Online Book Shop.exe
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\obj\Debug\Online Book Shop.pdb
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\obj\Debug\Online_Book_Shop.Login.resources
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\obj\Debug\Online_Book_Shop.Main_Page.resources
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\bin\Debug\Online Book Shop.exe.manifest
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\bin\Debug\Online Book Shop.application
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\obj\Debug\Online Book Shop.exe.manifest
+C:\Users\KrisPC\source\repos\Online Book Shop\Online Book Shop\obj\Debug\Online Book Shop.application
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\bin\Debug\Online Book Shop.exe.config
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\bin\Debug\Online Book Shop.exe.manifest
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\bin\Debug\Online Book Shop.application
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\bin\Debug\Online Book Shop.exe
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\bin\Debug\Online Book Shop.pdb
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\obj\Debug\Online Book Shop.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\obj\Debug\Online_Book_Shop.Form1.resources
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\obj\Debug\Online_Book_Shop.Login.resources
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\obj\Debug\Online_Book_Shop.Main_Page.resources
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\obj\Debug\Online_Book_Shop.Properties.Resources.resources
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\obj\Debug\Online Book Shop.csproj.GenerateResource.cache
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\obj\Debug\Online Book Shop.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\obj\Debug\Online Book Shop.exe.manifest
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\obj\Debug\Online Book Shop.application
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\obj\Debug\Online Book Shop.exe
+C:\Users\KrisPC\source\repos\Online Book Shop 2\Online Book Shop\obj\Debug\Online Book Shop.pdb
